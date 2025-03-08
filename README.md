@@ -1,4 +1,4 @@
-# Disease Prediction Web App
+# Medical Diagnosis Web App
 
 This is a Streamlit web application that predicts various diseases based on user input. It uses pre-trained machine learning models to provide predictions for diabetes, heart disease, Parkinson's disease, lung cancer, and hypothyroidism.
 
