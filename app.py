@@ -90,10 +90,7 @@ models = {
 selected = st.selectbox(
     'Select a Disease to Predict',
     ['Diabetes Prediction',
-     'Heart Disease Prediction',
-     'Parkinsons Prediction',
-     'Lung Cancer Prediction',
-     'Hypo-Thyroid Prediction']
+     'Heart Disease Prediction',]
 )
 
 def display_input(label, tooltip, key, type="text"):
